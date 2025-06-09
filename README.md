@@ -10,6 +10,10 @@ This repository contains the full pipeline used to predict the **initial setting
 - `cement_concat_enhanced_final.pkl`: Feature-engineered dataset with ~500 features.
 - `DL_Pipeline_Final.ipynb`: Complete, Colab-compatible notebook. Already executed with full visual outputs.
 - `Data_Codes.ipynb`: Draft notebook with scattered code snippets related to data processing and feature engineering. **Not a runnable pipeline** — executing it will likely break. It serves only as a reference to inspect fragments of the logic used during dataset preparation, but **should not be seen as a step-by-step guide**.
+- `Project_Presentation.pdf`: Final slide deck used during the oral defense, summarizing the pipeline, experiments, and results.
+- `Project_Report.pdf`: Written report detailing the project's motivation, methodology, results, and conclusions.
+- `README.md`: This file.
+
 
 
 ---
@@ -32,7 +36,7 @@ Note: This notebook is **not executable as a pipeline** but serves as a referenc
 1. Download:
    - `DL_Pipeline_Final.ipynb`
    - `cement_concat_raw_final.pkl`
-   - `cement_concat_enhanced_final.pkl`
+   - `cement_concat_enhanced_final.pkl.zip` (unzip it)
 
 2. Open the notebook in [Google Colab](https://colab.research.google.com/).
 
