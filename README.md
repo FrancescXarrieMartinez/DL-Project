@@ -9,7 +9,8 @@ This repository contains the full pipeline used to predict the **initial setting
 - `cement_concat_raw_final.pkl`: Raw dataset with ~60 features.
 - `cement_concat_enhanced_final.pkl`: Feature-engineered dataset with ~500 features.
 - `DL_Pipeline_Final.ipynb`: Complete, Colab-compatible notebook. Already executed with full visual outputs.
-- `Data_Codes.ipynb`: Supplementary notebook with preprocessing, engineering, and display snippets (not runnable as-is).
+- `Data_Codes.ipynb`: Draft notebook with scattered code snippets related to data processing and feature engineering. **Not a runnable pipeline** — executing it will likely break. It serves only as a reference to inspect fragments of the logic used during dataset preparation, but **should not be seen as a step-by-step guide**.
+
 
 ---
 
